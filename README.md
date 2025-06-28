@@ -1,1 +1,1 @@
-# tic-tac-toe
+# toe main project
